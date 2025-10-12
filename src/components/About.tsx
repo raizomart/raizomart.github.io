@@ -15,7 +15,7 @@ const About: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-gray-600 leading-relaxed">
-              I'm a passionate 3rd year Computer Science student at Our Lady of Fatima University in the Philippines, 
+              I'm a passionate 4th year Computer Science student at Our Lady of Fatima University in the Philippines, 
               specializing in frontend development and UI/UX design. My journey combines technical programming skills 
               with creative design thinking to build beautiful and functional digital experiences.
             </p>
