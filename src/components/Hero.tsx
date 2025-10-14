@@ -78,7 +78,7 @@ const Hero: React.FC = () => {
           </p>
 
           <p className="text-lg sm:text-xl text-white/80 mb-12 max-w-2xl mx-auto drop-shadow-md">
-            3rd Year Computer Science student at Our Lady of Fatima University,
+            4th Year Computer Science student at Our Lady of Fatima University,
             passionate about creating beautiful user experiences and innovative web
             solutions
           </p>
