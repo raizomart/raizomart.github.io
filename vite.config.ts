@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/raizomart.github.io/", // Must be included for project sites
+  base: '/', 
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
