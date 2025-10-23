@@ -91,7 +91,7 @@ const Hero: React.FC = () => {
               View My Work
             </button>
             <a
-              href="https://drive.google.com/file/d/10-BZeFx4hwwYROt7eN9OeYR2kcEbZgJR/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1PSCpm43HZZVBFIsJkTNy89WvUET2-nUi/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600/80 backdrop-blur-sm border border-blue-500/50 text-white px-8 py-4 rounded-lg text-lg font-medium hover:bg-blue-700/80 transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl text-center"
