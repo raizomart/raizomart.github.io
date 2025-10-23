@@ -89,6 +89,13 @@ const Education: React.FC = () => {
       date: '2024',
       credentialId: 'Google-IT-003',
       image: '/google-it-support-professional-certificate-v2 (1).jpg'
+    },
+    {
+      title: 'IT Support',
+      issuer: 'Google',
+      date: '2024',
+      credentialId: 'Google-IT-003',
+      image: '/Cisco-Certified-Support-Technician-Cybersecurity.jpg'
     }
   ];
 
