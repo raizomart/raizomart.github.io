@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <h3 className="text-2xl font-bold">Raymart Anthony A. Adarme</h3>
             <p className="text-gray-400 leading-relaxed">
-              Frontend Developer & UI/UX Designer. 3rd Year Computer Science student at 
+              Frontend Developer & UI/UX Designer. 4th Year Computer Science student at 
               Our Lady of Fatima University, passionate about creating beautiful user experiences.
             </p>
             <div className="flex space-x-4">
